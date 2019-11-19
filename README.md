@@ -1,2 +1,2 @@
 # TresEnRaya
-Simple game made cause i was bored
+Simple tic tac toe game
