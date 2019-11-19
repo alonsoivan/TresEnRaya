@@ -1,13 +1,8 @@
 # TresEnRaya
 Simple tic tac toe game
 
-![ttt1](/img/ttt1.png)
-Format: ![Alt Text](url)
+![alt text](https://github.com/alonsoivan/TresEnRaya/blob/master/img/ttt1.PNG)
 
+![alt text](https://github.com/alonsoivan/TresEnRaya/blob/master/img/ttt2.PNG)
 
-![ttt2](/img/ttt2.png)
-Format: ![Alt Text](url)
-
-
-![ttt3](/img/ttt3.png)
-Format: ![Alt Text](url)
+![alt text](https://github.com/alonsoivan/TresEnRaya/blob/master/img/ttt3.PNG)
